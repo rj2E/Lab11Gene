@@ -1,0 +1,7 @@
+^\.gitignore$
+^\.git$
+^\.gitattributes$
+^README\.md$
+^Lab11Gene\.Rproj$
+^\.RData$
+^\.Rhistory$
